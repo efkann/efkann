@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there, I'm Efkan 👋
 
+### I'm a passionate front end developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efkann)](https://github.com/anuraghazra/github-readme-stats)
 
