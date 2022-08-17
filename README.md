@@ -2,7 +2,7 @@
 
 <p align="center"> I used to break stuff, now I build stuff. </h3>
 
-Check my personal website [efkan.dev](https://efkan.dev) to learn more about me.
+Check my personal website [efkan.dev](https://efkan.dev) to learn more about me and the apps I built.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efkann)](https://github.com/anuraghazra/github-readme-stats)
 
