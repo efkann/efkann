@@ -1,8 +1,15 @@
 <h1 align="center"> Hi there, I'm Efkan 👋 </h1>
 
-<p align="center"> I used to break stuff, now I build stuff. </h3>
+<p align="center"> I used to break stuff now I build stuff. </h3>
 
-Check my personal website [efkan.dev](https://efkan.dev) to learn more about me and the apps I built.
+Check my personal website [efkan.dev](https://efkan.dev) to learn more about me!
+
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently learning Typescript
+- 💬 Ask me about anything
+- 📫 How to reach me: [Twitter](https://twitter.com/mefkansec)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efkann)](https://github.com/anuraghazra/github-readme-stats)
 
