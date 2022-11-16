@@ -5,7 +5,7 @@
 Check my personal website [efkan.dev](https://efkan.dev) to learn more about me!
 
 - 🔭 I’m currently looking for a job
-- 👍 I like working with React, Next.JS
+- 👍 I like working with React, Typescript, Next.JS
 - 🌱 I’m learning Typescript
 - 💬 Ask me about anything
 - 📫 How to reach me: [Twitter](https://twitter.com/mefkansec), [Linkedin](https://linkedin.com/in/efkangokbas)
