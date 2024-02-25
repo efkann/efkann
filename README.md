@@ -2,8 +2,6 @@
 
 <p align="center"> I used to break stuff now I build stuff. </h3>
 
-Check my personal website [efkan.dev](https://efkan.dev) to learn more about me!
-
 - 🔭 I’m currently looking for a job
 - 👍 I like working with React, Typescript, Next.js
 - 🌱 I’m learning Typescript
